@@ -1,5 +1,1 @@
-"# game" 
-"# game" 
-"# game" 
-"# game" 
-"# game" 
+game R P S
